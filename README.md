@@ -28,8 +28,8 @@
 ### :man_technologist: About Me :
 I am a Computer Science student :man_student:  at the University of Bath 
 
--  :briefcase: I am in my second year looking to do an industrial placement in year 3 
-- :globe_with_meridians: I love exploring new technologies and am currently focusing on networking
+-  :briefcase: I am in my final year looking to secure a role as a software developer 
+- :globe_with_meridians: I love exploring new technologies
 
 
 ### :speaking_head: Languages :
